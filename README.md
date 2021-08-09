@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Pankov Eugene
+- 👀 I’m interested in QA
+- 🌱 I’m currently learning JS
+- 📫 How to reach me ... )))) ... Kharkov, Novgorodskaya st. 6-B
